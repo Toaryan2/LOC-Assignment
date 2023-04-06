@@ -1,0 +1,19 @@
+Answer :-
+
+
+5.
+
+(a).
+
+Answer:-  ii) k is a pointer to a pointer to a pointer to a pointer to a char
+
+
+
+
+(b).
+
+Answer:-  (iii) 6.
+
+
+
+

@@ -1,0 +1,7 @@
+Answer:-
+
+
+6.
+
+
+(b). Structure members cannot be initialized at the time of declaration

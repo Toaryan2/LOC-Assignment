@@ -1,0 +1,10 @@
+Answer:-
+
+
+7.
+
+
+Size of C structure is the total bytes of all elements of structure.
+
+
+The size of a structure is calculated by adding the sum of the size of all data members and the packing size.
